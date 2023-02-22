@@ -78,6 +78,6 @@ _concordium-client config account import <YOUR PUBLIC ADDRESS.export> --name <Yo
   
  # Concordium Mainnet Address
   
-
+45FsK8eVKwadg4EX2CnBGKGuemBKiTALFe6frm9vP5VZeNCoac
 
 
