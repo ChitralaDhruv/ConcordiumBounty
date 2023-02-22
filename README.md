@@ -65,8 +65,10 @@ To obtain 2000 CCDs for testing, use your account's Testnet faucet.
 
 Click on the export button in the wallet which should download a <public key>.export file to your downloads folder
 
-<img src="https://github.com/ChitralaDhruv/ConcordiumBounty/blob/main/Screenshots/testnetWallet.png" height="400">
-<img src="https://github.com/ChitralaDhruv/ConcordiumBounty/blob/main/Screenshots/exportKeys.png" height="400">
+<p float="left">
+  <img src="https://github.com/ChitralaDhruv/ConcordiumBounty/blob/main/Screenshots/testnetWallet.png" height="450">
+  <img src="https://github.com/ChitralaDhruv/ConcordiumBounty/blob/main/Screenshots/exportKeys.png" height="450">
+</p>
 
 
 Now import the key using terminal by using the command shown below <br />
