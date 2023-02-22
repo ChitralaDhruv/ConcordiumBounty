@@ -66,13 +66,13 @@ To obtain 2000 CCDs for testing, use your account's Testnet faucet.
 Click on the export button in the wallet which should download a <public key>.export file to your downloads folder
 
 <img src="https://github.com/ChitralaDhruv/ConcordiumBounty/blob/main/Screenshots/testnetWallet.png" height="400">
+<img src="https://github.com/ChitralaDhruv/ConcordiumBounty/blob/main/Screenshots/exportKeys.png" height="400">
 
 
 Now import the key using terminal by using the command shown below <br />
 _concordium-client config account import <YOUR PUBLIC ADDRESS.export> --name <Your-Wallet-Name>_
   
-<img src="https://github.com/ChitralaDhruv/ConcordiumBounty/blob/main/Screenshots/exportKeys.png" height="400">
-<img src="https://github.com/ChitralaDhruv/ConcordiumBounty/blob/main/Screenshots/importKeys.png" height="400">
+<img src="https://github.com/ChitralaDhruv/ConcordiumBounty/blob/main/Screenshots/importKeys.png">
   
  # Concordium Mainnet Address
   
