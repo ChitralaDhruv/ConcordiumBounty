@@ -61,12 +61,11 @@ When choosing a Concordium testnet IP, you are not required to provide an ID in 
 
 To obtain 2000 CCDs for testing, use your account's Testnet faucet.
 
-![testnetWallet](https://github.com/ChitralaDhruv/ConcordiumBounty/blob/main/Screenshots/testnetWallet.png)
-
 ## Exporting and Importing Private Key
 
 Click on the export button in the wallet which should download a <public key>.export file to your downloads folder
 
+ <img src="https://github.com/ChitralaDhruv/ConcordiumBounty/blob/main/Screenshots/testnetWallet.png" height="300">
 ![testnetWallet](https://github.com/ChitralaDhruv/ConcordiumBounty/blob/main/Screenshots/testnetWallet.png)
 
 Now import the key using terminal by using the command shown below <br />
